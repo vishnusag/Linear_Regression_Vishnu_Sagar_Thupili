@@ -1,0 +1,25 @@
+# Linear Regression Bike Sharing Dataset
+> A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. We have to build a multiple linear regression model for the prediction of demand for shared bikes
+
+## Table of Contents
+* # Load the dataset
+* Function to preprocess the data
+* Data Visualization 
+* Feature Matrix preparation 
+* Model Building
+* Model Evaluation
+* Feature Importance Analysis
+* Model Diagnostics
+* Conclusions and Key Findings
+
+
+## General Information
+- The problem statement is about increasing the demand of usage of shared bike and being competitive in the market. 
+- Based on the data given we have to arrive a overall correlation between the no of rentals booked in various factors (Months, Seasons and Days (Holidays, festivals etc)).
+
+## Conclusions
+- The model accounts for 85.2% of the variance in bike rental demand.
+- Temperature and season are among the most influential predictors.
+- Weather conditions have a significant impact on rental trends.
+- A clear yearly trend indicates an increase in demand.
+
